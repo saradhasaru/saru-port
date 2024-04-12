@@ -1,0 +1,421 @@
+body{
+    background-color: black;
+    
+    
+}
+
+.bg-hero{
+    background-color: #f72585;
+    position: fixed;
+    z-index: 3;
+   
+}
+.pd-hello{
+    gap: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    
+  
+}
+.thin{
+    padding-left: 300px;
+}
+
+
+.nav-item a{
+    color: #ffff;
+}
+a:hover {
+    text-transform: uppercase;
+    
+}
+a{
+    font-size: 20px;
+    font-weight: 500;
+}
+.bg-hello{
+   
+    width:300px;
+    height:400px;
+   margin-left: 200px;
+   color: #f72585;
+   font-weight: bolder;
+   font-size:xx-large;
+   padding-top: 100px;
+   z-index: -1;
+  
+   
+}
+.bg-name{
+    padding-top: 100px;
+}
+
+.head{
+    gap:100px;
+}
+
+.bg-coloor{
+    background-color: black;
+    color: #f72585;
+    font-weight:bold;
+    font-size: 26px;
+  
+
+}
+.table td{
+    border: none;
+    color: #f72585;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: start;
+    
+}
+.table th{
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+ 
+
+}
+.table{
+    border: none;
+   
+    
+}
+.bg-coloor h5{
+    font-size: 40px;
+    color: white;
+}
+.bg-coloor h5:hover{
+    text-transform: uppercase;
+}
+.table::after{
+    margin: none;
+}
+.btn{
+    background-color: #f72585;
+   color: white;
+   font-weight: bold;
+}
+.btn:hover{
+    color: white;
+}
+.heloo{
+    margin-bottom: 100px;
+}
+.wild{
+    color: white;
+}
+.mt-50{
+    margin-top: 350px;
+
+}
+.bg-hide{
+    row-gap: 100%;
+}
+.hello{
+    border: 5px solid blueviolet;
+}
+.hento{
+    border: 5px solid brown;
+}
+.borders{
+    border: 1px solid blueviolet;
+}
+.mt-30{
+    margin-top: 70px;
+}
+.garden{
+   row-gap:5px;}
+.resume{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+.river{
+    color:#f72585;
+    font-weight: bold;
+    font-size: 30px;
+}
+.color{
+    background-color: #151515;
+}
+.title{
+    color:#f72585;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.next{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.para{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.garden:hover{
+    
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1);
+}
+.wen{
+    row-gap: 100px ;
+}
+.line {
+color: white;
+font-size: 20px;
+font-weight: bold;
+}
+.bg20{
+    background-color: #f72585;
+
+}
+.progress-value {
+    animation: load 6s normal forwards;
+    height: 30px;
+    width: 0;
+  }
+  
+  @keyframes load {
+    0% { width: 0; 
+       }
+    
+  }
+
+.col{
+    background-color: white;
+}
+.bg40{
+    background-color: black;
+    
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: rgb(220, 132, 180);
+    z-index: 1;
+  }
+
+  .col-md-4:hover .overlay {
+    opacity: 0.8;}
+    .col-md-8:hover .overlay {
+        opacity: 0.8;}
+
+    
+
+.text{
+  
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+}
+
+.behind{
+    
+    display: flex;
+  
+    
+}
+
+.icons{
+    height: 200px;
+    width:200px;
+    border-radius: 100px;
+    background-color: #151515;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 50px;
+    border: 5px solid #f72585;
+    
+   
+    
+
+}
+.learn{
+  
+    align-items: center !important;
+    padding-top: 35px;
+    color: #f72585;
+    
+}
+
+.hen{
+    height: 200px;
+    width:200px;
+   
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 50px;
+ 
+color: white;
+font-size: 20px;
+font-weight: bold;
+margin-left: 50px;
+
+
+}
+.hen p{
+    color: #f72585;
+}
+
+.wel{
+    background-color: #151515;
+}
+
+.hire{
+    padding-left: 40px;
+    padding-right: 40px;
+    
+
+}
+.echo{
+    background-color: white;
+   
+}
+.bt-1{
+    cursor: pointer;
+}   
+
+
+
+
+.wind{
+    color:white; 
+    font-weight: bold;
+ font-family: "arial";
+ font-size: 3em;
+ margin: 10px 0 0 10px;
+ white-space: nowrap;
+ overflow: hidden;
+ width: 100%;
+ animation: animtext 3s steps(80, end); 
+  transition: all cubic-bezier(0.1, 0.7, 1.0, 0.1);
+}
+@keyframes animtext { 
+ from {
+     width: 0;
+    transition: all 2s ease-in-out;
+ } 
+}
+.ron{
+    background-color: #f72585;
+   
+    animation: mymove 3s 4;
+    height:300px;
+    width:350px;
+    
+   
+   
+    
+    
+
+
+}
+@keyframes mymove {
+    40% {
+    transform: rotate(10deg) ;}
+  }
+
+.gen{
+    row-gap: 15px;
+}
+
+.pt-5{
+    gap: 30px;
+   color: #f72585;
+}
+.tremp{
+    color: #f72585;
+  
+}
+.abt{
+    font-size: 30px;
+    color: white;
+}
+.lint{
+    padding-right: 50px;
+    color: #f72585;
+    font-size: 20px;
+    font-weight: 500;
+}
+.wit{
+ 
+    list-style-type: none;
+    color: #f72585;
+    font-size: 20px;
+    font-weight: 500;
+   
+ 
+}
+.wemp{
+    color: #f72585;
+   padding: 15px;
+   
+    
+}
+.den{
+  
+   
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 70px;
+    
+}
+.then{
+    padding-left: 100px;
+}
+.con{
+    font-size: 30px;
+    color: white;
+}
+a.line{
+    color: #f72585;
+    font-size:25px ;
+
+}
+a.line:hover{
+text-decoration: none;
+}
+
+input[type=text] {
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+button{
+  background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+canvas{
+  /*prevent interaction with the canvas*/
+  pointer-events:none;
+}
